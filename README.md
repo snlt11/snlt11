@@ -4,7 +4,6 @@
 
 🔭 Junior Web Backend Developer at Better HR (Myanmar)
 
-🎓 Passionate about clean code, desk‑checking, and scalable backends
 ---
 
 ## 📊 GitHub Stats
