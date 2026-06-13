@@ -2,12 +2,11 @@
 
 ### Building from interface to infrastructure.
 
-I'm a full stack developer based in Yangon, Myanmar, focused on building useful
-products and reliable systems from end to end.
 
-I create responsive web experiences with React and develop scalable backend
-services using Node.js, NestJS, and Laravel. I enjoy solving real-world
-problems, improving how systems work, and continuously growing as a developer.
+I'm a full stack developer based in Yangon, Myanmar, focused on building useful 
+products and reliable systems from end to end. I enjoy solving real-world 
+problems, improving existing systems, and continuously growing as a developer.
+
 
 [Portfolio](https://www.sainaylinthar.me) ·
 [LinkedIn](https://www.linkedin.com/in/sai-nay-lin-thar/) ·
