@@ -2,38 +2,18 @@
 
 ### Building from interface to infrastructure.
 
-I'm a full stack developer based in Yangon, Myanmar. I enjoy turning complex
-business requirements into products that are clear for users, practical for
-teams, and dependable in production.
+I'm a full stack developer based in Yangon, Myanmar, focused on building useful
+products and reliable systems from end to end.
 
-My work moves across React interfaces, Node.js and NestJS services, Laravel
-APIs, databases, integrations, and deployment workflows.
+I create responsive web experiences with React and develop scalable backend
+services using Node.js, NestJS, and Laravel. I enjoy solving real-world
+problems, improving how systems work, and continuously growing as a developer.
 
 [Portfolio](https://www.sainaylinthar.me) ·
 [LinkedIn](https://www.linkedin.com/in/sai-nay-lin-thar/) ·
 [Email](mailto:sainaylinthar@gmail.com)
 
 ---
-
-## What I'm Building
-
-**Better HR**
-
-I contribute to a multi-tenant HR platform used across multiple countries,
-working on payroll, attendance, employee records, reporting, AI-assisted
-automation, and other production systems.
-
-**Breeze Events**
-
-I'm building a mobile-first event management and ticketing platform with
-payments, wallet flows, real-time updates, and secure mobile communication.
-
-## How I Work
-
-- Start with the problem, then choose the technology
-- Keep APIs predictable and code easy to continue
-- Design for real production behavior, not only the happy path
-- Learn by building systems people can actually use
 
 ## Tools I Reach For
 
@@ -61,14 +41,3 @@ payments, wallet flows, real-time updates, and secure mobile communication.
 I'm currently deepening my skills in advanced React, Next.js, TypeScript, AWS,
 CI/CD, and scalable full-stack architecture while studying the NCC Level 5
 Diploma in Computing.
-
-## GitHub Activity
-
-<p>
-  <a href="https://github.com/snlt11">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=snlt11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Sai Nay Lin Thar's GitHub stats">
-  </a>
-  <a href="https://github.com/snlt11">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snlt11&layout=compact&theme=github_dark&hide_border=true" alt="Sai Nay Lin Thar's top languages">
-  </a>
-</p>
